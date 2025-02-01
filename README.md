@@ -21,3 +21,5 @@ taskflow complete 3
 
 ## 🔧 Config
 Edit `~/.taskflowrc` to customize behavior
+
+# PR Merge: 2025-10-15 - docs/merge-4591
