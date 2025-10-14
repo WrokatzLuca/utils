@@ -27,3 +27,5 @@ Edit `~/.taskflowrc` to customize behavior
 # PR Merge: 2025-10-15 - enhancement/merge-1347
 
 # PR Merge: 2025-10-15 - feature/merge-6019
+
+# PR Update: 2025-10-15 - enhancement/update-9930
